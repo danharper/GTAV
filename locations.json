@@ -3734,7 +3734,7 @@
   },
   {
     "id":208,
-    "type":"Car Spawn",
+    "type":"Vehicle Spawn",
     "title": "Rare Car Spawn",
     "notes":"Number of different sports cars will spawn here regularly",
     "order":1,
@@ -3743,7 +3743,7 @@
   },
   {
     "id":209,
-    "type":"Car Spawn",
+    "type":"Vehicle Spawn",
     "title":"Adder",
     "notes":"In-game version of the Bugatti",
     "order":2,
@@ -3752,7 +3752,7 @@
   },
   {
     "id":210,
-    "type":"Car Spawn",
+    "type":"Vehicle Spawn",
     "title":"Unmarked FIB Car",
     "notes":"",
     "order":3,
@@ -3986,5 +3986,763 @@
       "yt_id":"gnuPvliV8T8",
       "yt_user":"MrVuule"
     }
+  },
+  {
+    "type":"Under the Bridge",
+    "video":{
+      "start":"0:05",
+      "end":"1:14",
+      "yt_user":"PowerPyx",
+      "yt_id":"7EitUby6EC4"
+    },
+    "id":226,
+    "title":"Under the Bridge #1",
+    "order":1,
+    "notes":"The Buzzard helicopter is the easiest vehicle for all bridges - the blades are slightly shorter than the Maverick",
+    "lat":82.83148023336858,
+    "lng":-105.3369140625
+  },
+  {
+    "type":"Under the Bridge",
+    "video":{
+      "start":"1:14",
+      "end":"1:31",
+      "yt_user":"PowerPyx",
+      "yt_id":"7EitUby6EC4"
+    },
+    "id":227,
+    "title":"Under the Bridge #2",
+    "order":2,
+    "notes":"The Buzzard helicopter is the easiest vehicle for all bridges - the blades are slightly shorter than the Maverick",
+    "lat":81.18123079440416,
+    "lng":-97.14111328125
+  },
+  {
+    "type":"Under the Bridge",
+    "video":{
+      "start":"1:31",
+      "end":"1:54",
+      "yt_user":"PowerPyx",
+      "yt_id":"7EitUby6EC4"
+    },
+    "id":228,
+    "title":"Under the Bridge #3",
+    "order":3,
+    "notes":"The Buzzard helicopter is the easiest vehicle for all bridges - the blades are slightly shorter than the Maverick",
+    "lat":80.99057261848947,
+    "lng":-98.45947265625
+  },
+  {
+    "type":"Under the Bridge",
+    "video":{
+      "start":"1:54",
+      "end":"2:13",
+      "yt_user":"PowerPyx",
+      "yt_id":"7EitUby6EC4"
+    },
+    "id":229,
+    "title":"Under the Bridge #4",
+    "order":4,
+    "notes":"The Buzzard helicopter is the easiest vehicle for all bridges - the blades are slightly shorter than the Maverick",
+    "lat":77.49936407863743,
+    "lng":-101.18408203125
+  },
+  {
+    "type":"Under the Bridge",
+    "video":{
+      "start":"2:13",
+      "end":"2:32",
+      "yt_user":"PowerPyx",
+      "yt_id":"7EitUby6EC4"
+    },
+    "id":230,
+    "title":"Under the Bridge #5",
+    "order":5,
+    "notes":"The Buzzard helicopter is the easiest vehicle for all bridges - the blades are slightly shorter than the Maverick",
+    "lat":75.92554305800908,
+    "lng":-99.73388671875
+  },
+  {
+    "type":"Under the Bridge",
+    "video":{
+      "start":"2:32",
+      "end":"2:50",
+      "yt_user":"PowerPyx",
+      "yt_id":"7EitUby6EC4"
+    },
+    "id":231,
+    "title":"Under the Bridge #6",
+    "order":6,
+    "notes":"The Buzzard helicopter is the easiest vehicle for all bridges - the blades are slightly shorter than the Maverick",
+    "lat":75.50815837230884,
+    "lng":-106.80908203125
+  },
+  {
+    "type":"Under the Bridge",
+    "video":{
+      "start":"2:50",
+      "end":"3:10",
+      "yt_user":"PowerPyx",
+      "yt_id":"7EitUby6EC4"
+    },
+    "id":232,
+    "title":"Under the Bridge #7",
+    "order":7,
+    "notes":"The Buzzard helicopter is the easiest vehicle for all bridges - the blades are slightly shorter than the Maverick",
+    "lat":73.27735320192473,
+    "lng":-101.689453125
+  },
+  {
+    "type":"Under the Bridge",
+    "video":{
+      "start":"3:10",
+      "end":"3:26",
+      "yt_user":"PowerPyx",
+      "yt_id":"7EitUby6EC4"
+    },
+    "id":233,
+    "title":"Under the Bridge #8",
+    "order":8,
+    "notes":"The Buzzard helicopter is the easiest vehicle for all bridges - the blades are slightly shorter than the Maverick",
+    "lat":73.16317321504972,
+    "lng":-102.1728515625
+  },
+  {
+    "type":"Under the Bridge",
+    "video":{
+      "start":"3:26",
+      "end":"3:45",
+      "yt_user":"PowerPyx",
+      "yt_id":"7EitUby6EC4"
+    },
+    "id":234,
+    "title":"Under the Bridge #9",
+    "order":9,
+    "notes":"The Buzzard helicopter is the easiest vehicle for all bridges - the blades are slightly shorter than the Maverick",
+    "lat":72.32245873268863,
+    "lng":-95.5810546875
+  },
+  {
+    "type":"Under the Bridge",
+    "video":{
+      "start":"3:45",
+      "end":"4:02",
+      "yt_user":"PowerPyx",
+      "yt_id":"7EitUby6EC4"
+    },
+    "id":235,
+    "title":"Under the Bridge #10",
+    "order":10,
+    "notes":"The Buzzard helicopter is the easiest vehicle for all bridges - the blades are slightly shorter than the Maverick",
+    "lat":68.18788950166666,
+    "lng":-101.62353515625
+  },
+  {
+    "type":"Under the Bridge",
+    "video":{
+      "start":"4:02",
+      "end":"4:19",
+      "yt_user":"PowerPyx",
+      "yt_id":"7EitUby6EC4"
+    },
+    "id":236,
+    "title":"Under the Bridge #11",
+    "order":11,
+    "notes":"The Buzzard helicopter is the easiest vehicle for all bridges - the blades are slightly shorter than the Maverick",
+    "lat":66.95587684341999,
+    "lng":-106.083984375
+  },
+  {
+    "type":"Under the Bridge",
+    "video":{
+      "start":"4:19",
+      "end":"4:36",
+      "yt_user":"PowerPyx",
+      "yt_id":"7EitUby6EC4"
+    },
+    "id":237,
+    "title":"Under the Bridge #12",
+    "order":12,
+    "notes":"The Buzzard helicopter is the easiest vehicle for all bridges - the blades are slightly shorter than the Maverick",
+    "lat":68.84766505841037,
+    "lng":-114.0380859375
+  },
+  {
+    "type":"Under the Bridge",
+    "video":{
+      "start":"4:36",
+      "end":"4:52",
+      "yt_user":"PowerPyx",
+      "yt_id":"7EitUby6EC4"
+    },
+    "id":238,
+    "title":"Under the Bridge #13",
+    "order":13,
+    "notes":"The Buzzard helicopter is the easiest vehicle for all bridges - the blades are slightly shorter than the Maverick",
+    "lat":68.53627641533488,
+    "lng":-114.609375
+  },
+  {
+    "type":"Under the Bridge",
+    "video":{
+      "start":"4:52",
+      "end":"5:09",
+      "yt_user":"PowerPyx",
+      "yt_id":"7EitUby6EC4"
+    },
+    "id":239,
+    "title":"Under the Bridge #14",
+    "order":14,
+    "notes":"The Buzzard helicopter is the easiest vehicle for all bridges - the blades are slightly shorter than the Maverick",
+    "lat":68.07330474079025,
+    "lng":-117.509765625
+  },
+  {
+    "type":"Under the Bridge",
+    "video":{
+      "start":"5:09",
+      "end":"5:27",
+      "yt_user":"PowerPyx",
+      "yt_id":"7EitUby6EC4"
+    },
+    "id":240,
+    "title":"Under the Bridge #15",
+    "order":15,
+    "notes":"The Buzzard helicopter is the easiest vehicle for all bridges - the blades are slightly shorter than the Maverick",
+    "lat":67.71777831266216,
+    "lng":-118.45458984375
+  },
+  {
+    "type":"Under the Bridge",
+    "video":{
+      "start":"5:27",
+      "end":"5:40",
+      "yt_user":"PowerPyx",
+      "yt_id":"7EitUby6EC4"
+    },
+    "id":241,
+    "title":"Under the Bridge #16",
+    "order":16,
+    "notes":"The Buzzard helicopter is the easiest vehicle for all bridges - the blades are slightly shorter than the Maverick",
+    "lat":66.58321725728173,
+    "lng":-118.828125
+  },
+  {
+    "type":"Under the Bridge",
+    "video":{
+      "start":"5:40",
+      "end":"6:02",
+      "yt_user":"PowerPyx",
+      "yt_id":"7EitUby6EC4"
+    },
+    "id":242,
+    "title":"Under the Bridge #17",
+    "order":17,
+    "notes":"The Buzzard helicopter is the easiest vehicle for all bridges - the blades are slightly shorter than the Maverick",
+    "lat":66.60940033421895,
+    "lng":-114.8291015625
+  },
+  {
+    "type":"Under the Bridge",
+    "video":{
+      "start":"6:02",
+      "end":"6:17",
+      "yt_user":"PowerPyx",
+      "yt_id":"7EitUby6EC4"
+    },
+    "id":243,
+    "title":"Under the Bridge #18",
+    "order":18,
+    "notes":"The Buzzard helicopter is the easiest vehicle for all bridges - the blades are slightly shorter than the Maverick",
+    "lat":66.07154649351561,
+    "lng":-114.47753906250006
+  },
+  {
+    "type":"Under the Bridge",
+    "video":{
+      "start":"6:17",
+      "end":"6:36",
+      "yt_user":"PowerPyx",
+      "yt_id":"7EitUby6EC4"
+    },
+    "id":244,
+    "title":"Under the Bridge #19",
+    "order":19,
+    "notes":"The Buzzard helicopter is the easiest vehicle for all bridges - the blades are slightly shorter than the Maverick",
+    "lat":65.37599365291614,
+    "lng":-112.60986328125
+  },
+  {
+    "type":"Under the Bridge",
+    "video":{
+      "start":"6:36",
+      "end":"6:54",
+      "yt_user":"PowerPyx",
+      "yt_id":"7EitUby6EC4"
+    },
+    "id":245,
+    "title":"Under the Bridge #20",
+    "order":20,
+    "notes":"The Buzzard helicopter is the easiest vehicle for all bridges - the blades are slightly shorter than the Maverick",
+    "lat":65.9016533861307,
+    "lng":-118.80615234375
+  },
+  {
+    "type":"Under the Bridge",
+    "video":{
+      "start":"6:54",
+      "end":"7:13",
+      "yt_user":"PowerPyx",
+      "yt_id":"7EitUby6EC4"
+    },
+    "id":246,
+    "title":"Under the Bridge #21",
+    "order":21,
+    "notes":"The Buzzard helicopter is the easiest vehicle for all bridges - the blades are slightly shorter than the Maverick",
+    "lat":65.17380608397224,
+    "lng":-118.85009765625
+  },
+  {
+    "type":"Under the Bridge",
+    "video":{
+      "start":"7:13",
+      "end":"7:29",
+      "yt_user":"PowerPyx",
+      "yt_id":"7EitUby6EC4"
+    },
+    "id":247,
+    "title":"Under the Bridge #22",
+    "order":22,
+    "notes":"The Buzzard helicopter is the easiest vehicle for all bridges - the blades are slightly shorter than the Maverick",
+    "lat":64.19681461100494,
+    "lng":-118.36669921875
+  },
+  {
+    "type":"Under the Bridge",
+    "video":{
+      "start":"7:29",
+      "end":"7:46",
+      "yt_user":"PowerPyx",
+      "yt_id":"7EitUby6EC4"
+    },
+    "id":248,
+    "title":"Under the Bridge #23",
+    "order":23,
+    "notes":"The Buzzard helicopter is the easiest vehicle for all bridges - the blades are slightly shorter than the Maverick",
+    "lat":62.915233039476135,
+    "lng":-118.037109375
+  },
+  {
+    "type":"Under the Bridge",
+    "video":{
+      "start":"7:46",
+      "end":"8:06",
+      "yt_user":"PowerPyx",
+      "yt_id":"7EitUby6EC4"
+    },
+    "id":249,
+    "title":"Under the Bridge #24",
+    "order":24,
+    "notes":"The Buzzard helicopter is the easiest vehicle for all bridges - the blades are slightly shorter than the Maverick",
+    "lat":61.48075950007598,
+    "lng":-118.32275390625
+  },
+  {
+    "type":"Under the Bridge",
+    "video":{
+      "start":"8:06",
+      "end":"8:26",
+      "yt_user":"PowerPyx",
+      "yt_id":"7EitUby6EC4"
+    },
+    "id":250,
+    "title":"Under the Bridge #25",
+    "order":25,
+    "notes":"The Buzzard helicopter is the easiest vehicle for all bridges - the blades are slightly shorter than the Maverick",
+    "lat":59.33318942659219,
+    "lng":-118.6962890625
+  },
+  {
+    "type":"Under the Bridge",
+    "video":{
+      "start":"8:26",
+      "end":"8:45",
+      "yt_user":"PowerPyx",
+      "yt_id":"7EitUby6EC4"
+    },
+    "id":251,
+    "title":"Under the Bridge #26",
+    "order":26,
+    "notes":"The Buzzard helicopter is the easiest vehicle for all bridges - the blades are slightly shorter than the Maverick",
+    "lat":58.96133955528141,
+    "lng":-118.05908203125
+  },
+  {
+    "type":"Under the Bridge",
+    "video":{
+      "start":"8:45",
+      "end":"9:01",
+      "yt_user":"PowerPyx",
+      "yt_id":"7EitUby6EC4"
+    },
+    "id":252,
+    "title":"Under the Bridge #27",
+    "order":27,
+    "notes":"The Buzzard helicopter is the easiest vehicle for all bridges - the blades are slightly shorter than the Maverick",
+    "lat":58.90464570302001,
+    "lng":-117.509765625
+  },
+  {
+    "type":"Under the Bridge",
+    "video":{
+      "start":"9:01",
+      "end":"9:18",
+      "yt_user":"PowerPyx",
+      "yt_id":"7EitUby6EC4"
+    },
+    "id":253,
+    "title":"Under the Bridge #28",
+    "order":28,
+    "notes":"The Buzzard helicopter is the easiest vehicle for all bridges - the blades are slightly shorter than the Maverick",
+    "lat":58.73400476743346,
+    "lng":-116.8505859375
+  },
+  {
+    "type":"Under the Bridge",
+    "video":{
+      "start":"9:18",
+      "end":"9:37",
+      "yt_user":"PowerPyx",
+      "yt_id":"7EitUby6EC4"
+    },
+    "id":254,
+    "title":"Under the Bridge #29",
+    "order":29,
+    "notes":"The Buzzard helicopter is the easiest vehicle for all bridges - the blades are slightly shorter than the Maverick",
+    "lat":60.22890276751329,
+    "lng":-121.13525390625
+  },
+  {
+    "type":"Under the Bridge",
+    "video":{
+      "start":"9:37",
+      "end":"9:59",
+      "yt_user":"PowerPyx",
+      "yt_id":"7EitUby6EC4"
+    },
+    "id":255,
+    "title":"Under the Bridge #30",
+    "order":30,
+    "notes":"The Buzzard helicopter is the easiest vehicle for all bridges - the blades are slightly shorter than the Maverick",
+    "lat":60.261617082844616,
+    "lng":-122.45361328125
+  },
+  {
+    "type":"Under the Bridge",
+    "video":{
+      "start":"9:59",
+      "end":"10:18",
+      "yt_user":"PowerPyx",
+      "yt_id":"7EitUby6EC4"
+    },
+    "id":256,
+    "title":"Under the Bridge #31",
+    "order":31,
+    "notes":"The Buzzard helicopter is the easiest vehicle for all bridges - the blades are slightly shorter than the Maverick",
+    "lat":60.06484046010452,
+    "lng":-128.2763671875
+  },
+  {
+    "type":"Under the Bridge",
+    "video":{
+      "start":"10:18",
+      "end":"10:38",
+      "yt_user":"PowerPyx",
+      "yt_id":"7EitUby6EC4"
+    },
+    "id":257,
+    "title":"Under the Bridge #32",
+    "order":32,
+    "notes":"The Buzzard helicopter is the easiest vehicle for all bridges - the blades are slightly shorter than the Maverick",
+    "lat":61.53316997618228,
+    "lng":-124.07958984375
+  },
+  {
+    "type":"Under the Bridge",
+    "video":{
+      "start":"10:38",
+      "end":"10:57",
+      "yt_user":"PowerPyx",
+      "yt_id":"7EitUby6EC4"
+    },
+    "id":258,
+    "title":"Under the Bridge #33",
+    "order":33,
+    "notes":"The Buzzard helicopter is the easiest vehicle for all bridges - the blades are slightly shorter than the Maverick",
+    "lat":62.62366757547449,
+    "lng":-126.5185546875
+  },
+  {
+    "type":"Under the Bridge",
+    "video":{
+      "start":"10:57",
+      "end":"11:18",
+      "yt_user":"PowerPyx",
+      "yt_id":"7EitUby6EC4"
+    },
+    "id":259,
+    "title":"Under the Bridge #34",
+    "order":34,
+    "notes":"The Buzzard helicopter is the easiest vehicle for all bridges - the blades are slightly shorter than the Maverick",
+    "lat":63.174193604205094,
+    "lng":-128.14453125
+  },
+  {
+    "type":"Under the Bridge",
+    "video":{
+      "start":"11:18",
+      "end":"11:41",
+      "yt_user":"PowerPyx",
+      "yt_id":"7EitUby6EC4"
+    },
+    "id":260,
+    "title":"Under the Bridge #35",
+    "order":35,
+    "notes":"The Buzzard helicopter is the easiest vehicle for all bridges - the blades are slightly shorter than the Maverick",
+    "lat":63.548552232036414,
+    "lng":-128.86962890625
+  },
+  {
+    "type":"Under the Bridge",
+    "video":{
+      "start":"11:41",
+      "end":"12:00",
+      "yt_user":"PowerPyx",
+      "yt_id":"7EitUby6EC4"
+    },
+    "id":261,
+    "title":"Under the Bridge #36",
+    "order":36,
+    "notes":"The Buzzard helicopter is the easiest vehicle for all bridges - the blades are slightly shorter than the Maverick",
+    "lat":63.89873081524394,
+    "lng":-130.62744140625
+  },
+  {
+    "type":"Under the Bridge",
+    "video":{
+      "start":"12:00",
+      "end":"12:23",
+      "yt_user":"PowerPyx",
+      "yt_id":"7EitUby6EC4"
+    },
+    "id":262,
+    "title":"Under the Bridge #37",
+    "order":37,
+    "notes":"The Buzzard helicopter is the easiest vehicle for all bridges - the blades are slightly shorter than the Maverick",
+    "lat":63.84066844285508,
+    "lng":-131.0009765625
+  },
+  {
+    "type":"Under the Bridge",
+    "video":{
+      "start":"12:23",
+      "end":"12:38",
+      "yt_user":"PowerPyx",
+      "yt_id":"7EitUby6EC4"
+    },
+    "id":263,
+    "title":"Under the Bridge #38",
+    "order":38,
+    "notes":"The Buzzard helicopter is the easiest vehicle for all bridges - the blades are slightly shorter than the Maverick",
+    "lat":63.763065186029074,
+    "lng":-131.50634765625
+  },
+  {
+    "type":"Under the Bridge",
+    "video":{
+      "start":"12:38",
+      "end":"12:56",
+      "yt_user":"PowerPyx",
+      "yt_id":"7EitUby6EC4"
+    },
+    "id":264,
+    "title":"Under the Bridge #39",
+    "order":39,
+    "notes":"The Buzzard helicopter is the easiest vehicle for all bridges - the blades are slightly shorter than the Maverick",
+    "lat":72.05361149670412,
+    "lng":-154.4677734375
+  },
+  {
+    "type":"Under the Bridge",
+    "video":{
+      "start":"12:56",
+      "end":"13:16",
+      "yt_user":"PowerPyx",
+      "yt_id":"7EitUby6EC4"
+    },
+    "id":265,
+    "title":"Under the Bridge #40",
+    "order":40,
+    "notes":"The Buzzard helicopter is the easiest vehicle for all bridges - the blades are slightly shorter than the Maverick",
+    "lat":76.38296942847462,
+    "lng":-138.93310546875
+  },
+  {
+    "type":"Under the Bridge",
+    "video":{
+      "start":"13:16",
+      "end":"13:32",
+      "yt_user":"PowerPyx",
+      "yt_id":"7EitUby6EC4"
+    },
+    "id":266,
+    "title":"Under the Bridge #41",
+    "order":41,
+    "notes":"The Buzzard helicopter is the easiest vehicle for all bridges - the blades are slightly shorter than the Maverick",
+    "lat":76.89074547194512,
+    "lng":-138.251953125
+  },
+  {
+    "type":"Under the Bridge",
+    "video":{
+      "start":"13:32",
+      "end":"13:48",
+      "yt_user":"PowerPyx",
+      "yt_id":"7EitUby6EC4"
+    },
+    "id":267,
+    "title":"Under the Bridge #42",
+    "order":42,
+    "notes":"The Buzzard helicopter is the easiest vehicle for all bridges - the blades are slightly shorter than the Maverick",
+    "lat":77.39430022245843,
+    "lng":-126.27685546875
+  },
+  {
+    "type":"Under the Bridge",
+    "video":{
+      "start":"13:48",
+      "end":"14:05",
+      "yt_user":"PowerPyx",
+      "yt_id":"7EitUby6EC4"
+    },
+    "id":268,
+    "title":"Under the Bridge #43",
+    "order":43,
+    "notes":"The Buzzard helicopter is the easiest vehicle for all bridges - the blades are slightly shorter than the Maverick",
+    "lat":77.61299649786253,
+    "lng":-128.56201171875
+  },
+  {
+    "type":"Under the Bridge",
+    "video":{
+      "start":"14:05",
+      "end":"14:22",
+      "yt_user":"PowerPyx",
+      "yt_id":"7EitUby6EC4"
+    },
+    "id":269,
+    "title":"Under the Bridge #44",
+    "order":44,
+    "notes":"The Buzzard helicopter is the easiest vehicle for all bridges - the blades are slightly shorter than the Maverick",
+    "lat":76.84081641443098,
+    "lng":-150.46875
+  },
+  {
+    "type":"Under the Bridge",
+    "video":{
+      "start":"14:22",
+      "end":"14:40",
+      "yt_user":"PowerPyx",
+      "yt_id":"7EitUby6EC4"
+    },
+    "id":270,
+    "title":"Under the Bridge #45",
+    "order":45,
+    "notes":"The Buzzard helicopter is the easiest vehicle for all bridges - the blades are slightly shorter than the Maverick",
+    "lat":78.43341771170695,
+    "lng":-123.3544921875
+  },
+  {
+    "type":"Under the Bridge",
+    "video":{
+      "start":"14:40",
+      "end":"14:58",
+      "yt_user":"PowerPyx",
+      "yt_id":"7EitUby6EC4"
+    },
+    "id":271,
+    "title":"Under the Bridge #46",
+    "order":46,
+    "notes":"The Buzzard helicopter is the easiest vehicle for all bridges - the blades are slightly shorter than the Maverick",
+    "lat":78.52557254138317,
+    "lng":-123.22265625
+  },
+  {
+    "type":"Under the Bridge",
+    "video":{
+      "start":"14:58",
+      "end":"15:16",
+      "yt_user":"PowerPyx",
+      "yt_id":"7EitUby6EC4"
+    },
+    "id":272,
+    "title":"Under the Bridge #47",
+    "order":47,
+    "notes":"The Buzzard helicopter is the easiest vehicle for all bridges - the blades are slightly shorter than the Maverick",
+    "lat":80.02765497223287,
+    "lng":-126.18896484375
+  },
+  {
+    "type":"Under the Bridge",
+    "video":{
+      "start":"15:16",
+      "end":"15:34",
+      "yt_user":"PowerPyx",
+      "yt_id":"7EitUby6EC4"
+    },
+    "id":273,
+    "title":"Under the Bridge #48",
+    "order":48,
+    "notes":"The Buzzard helicopter is the easiest vehicle for all bridges - the blades are slightly shorter than the Maverick",
+    "lat":80.3164243776928,
+    "lng":-129.5947265625
+  },
+  {
+    "type":"Under the Bridge",
+    "video":{
+      "start":"15:34",
+      "end":"15:54",
+      "yt_user":"PowerPyx",
+      "yt_id":"7EitUby6EC4"
+    },
+    "id":274,
+    "title":"Under the Bridge #49",
+    "order":49,
+    "notes":"The Buzzard helicopter is the easiest vehicle for all bridges - the blades are slightly shorter than the Maverick",
+    "lat":80.67911826095326,
+    "lng":-142.80029296875
+  },
+  {
+    "type":"Under the Bridge",
+    "video":{
+      "start":"15:54",
+      "yt_user":"PowerPyx",
+      "yt_id":"7EitUby6EC4"
+    },
+    "id":275,
+    "title":"Under the Bridge #50",
+    "order":50,
+    "notes":"The Buzzard helicopter is the easiest vehicle for all bridges - the blades are slightly shorter than the Maverick",
+    "lat":80.83090675124559,
+    "lng":-134.6923828125
+  },
+  {
+    "id":276,
+    "type":"Vehicle Spawn",
+    "title":"Buzzard Attack Helicopter",
+    "order":4,
+    "notes":"Scale the wall beside this government facility. Climb the ladders on the side of the left-most building in the parking lot to the roof",
+    "lat":"68.68452739723196",
+    "lng":"-99.61303710937506"
   }
 ]

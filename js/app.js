@@ -150,6 +150,11 @@ $(function() {
 			type: 'Collectables'
 		},
 		{
+			name: 'Under the Bridge',
+			icon: 'collectable/under-the-bridge.png',
+			type: 'Collectables'
+		},
+		{
 			name: 'Knife Flight',
 			icon: 'collectable/knife-flight.png',
 			type: 'Collectables'
@@ -175,7 +180,7 @@ $(function() {
 			type: 'Misc'
 		},
 		{
-			name: 'Car Spawn',
+			name: 'Vehicle Spawn',
 			icon: 'pickup/car.png',
 			type: 'Misc'
 		}
